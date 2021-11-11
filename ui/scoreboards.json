@@ -1,0 +1,7 @@
+{
+  "namespace": "scoreboard",
+
+  "scoreboard_sidebar/main/lists/scores": {
+    "ignored": true
+  }
+}

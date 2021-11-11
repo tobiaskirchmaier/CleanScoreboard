@@ -1,0 +1,21 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"uuid": "a0ed1996-840b-487f-a743-560c7b5a3e5b",
+		"version": [ 1, 0, 0 ],
+		"min_engine_version": [ 1, 17, 0 ]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "54fd4ce0-1bde-4119-b078-16b7663a3c20",
+			"version": [ 1, 0, 0 ]
+		}
+	],
+	"metadata": {
+		"authors": [ "tobias14" ],
+		"url": "https://github.com/Tobias-2006/CleanScoreboard"
+	}
+}
